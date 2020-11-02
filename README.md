@@ -1,2 +1,2 @@
 # MergeAndRebase
-This file is udpated by kashif abbas
+Update by kashif abbas
